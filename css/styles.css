@@ -1,0 +1,185 @@
+#title {
+  margin:5% 10%;
+  background-image: url("https://wallpaperaccess.com/download/modern-house-2056374");
+  min-height: 420px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.container-fluid {
+  padding: 0 0 0;
+  height: 50px;
+}
+
+.navbar {
+  padding: 0;
+}
+
+.navbar-brand {
+  margin-left: 10%;
+  margin-right: 10%;
+  font-family: "Ubuntu";
+  font-size: 2rem;
+}
+
+.nav-contact{
+  margin-right: 5%;
+  margin-left: 20%;
+  font-family: "Ubuntu";
+  font-size: 1rem;
+  color: #6c757d;
+  text-decoration: none;
+}
+
+
+.nav-item {
+  padding: 0 25px;
+}
+
+.nav-link {
+  font-size: 1rem;
+  font-family: "Ubuntu";
+}
+
+hr {
+  margin-top: 2px;
+  color: white;
+}
+
+.title-row{
+  padding-left: 13%;
+  padding-top: 10%;
+  padding-right: 53%;
+}
+
+
+h1{
+  color: white;
+  font-family: 'Ubuntu';
+  font-size: 2.5rem;  line-height: 1;
+  font-weight: 400;
+}
+
+h3{
+  color: white;
+  font-family: 'Ubuntu';
+  font-size: 1rem;  line-height: 1;
+  font-weight: 400;
+}
+
+
+.btn{
+  margin-top: 5%;
+}
+
+
+.mainrow{
+  text-align: center;
+
+}
+
+
+.about-row{
+  background-color: #e9ecef;
+  margin-left: 2%;
+  margin-right: 23%;
+  text-align: left;
+  padding: 3%;
+  margin-top: 5%;
+}
+
+#aboutus{
+  margin:0% 10% 5%;
+}
+
+
+h2{
+  text-align: center;
+  font-family: 'Ubuntu';
+}
+
+
+.building-img{
+  padding-left: 15%;
+  margin-right: 0;
+  text-align: right;
+
+}
+
+.aboutnumbers{
+  padding: 3%;
+}
+
+.success-num{
+  padding-left: 10%;
+}
+
+
+.success-name {
+  font-size: 13px;
+  margin: 5%;
+  margin-left: 7%;
+  font-weight: 600;
+}
+
+
+
+#OurProjects{
+    margin:0% 20% 10%;
+}
+
+.project{
+  text-align: left;
+  margin-bottom: 0;
+}
+
+
+.img1{
+  padding: 0;
+  margin-top: 15%;
+  margin-bottom: 50%;
+}
+
+
+.project-tag{
+  color: black;
+    font-family: 'Ubuntu';
+}
+
+
+.dimention-name{
+  margin-top: 20px;
+  text-align: left;
+  padding-left: 0;
+}
+
+.dimention-no{
+  padding-right: 0;
+}
+
+
+.buy-button{
+    font-size: 20px;
+  background-color:brown;
+ border: none;
+ color: white;
+ border:2px solid brown;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ font-size: 16px;
+ padding: 10px 38px;
+}
+
+.download-button{
+  font-size: 20px;
+ border:2px solid brown;
+ color: brown;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ font-size: 16px;
+ padding: 10px 24px;
+}
